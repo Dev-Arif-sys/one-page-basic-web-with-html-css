@@ -91,6 +91,7 @@ color: white;}
         border: none;
         background-color: rgb(110, 133, 199);
         border-radius: 8px;
+        cursor: pointer;
     }
     .regLink button:hover{
         background-color: rgb(63, 100, 201);
@@ -199,6 +200,7 @@ color: white;}
               ;
               color: white;
               font-size: 17px;
+              cursor: pointer;
           }
           .serviceCard button:hover{
             background-color: rgb(49, 63, 104)
